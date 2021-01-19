@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/YoUr_IcOn/Desktop/Lab3/Timer.h
+chrono
+-
+
+C:/Users/YoUr_IcOn/Desktop/Lab3/common.h
+sstream
+-
+cmath
+-
+
+C:/Users/YoUr_IcOn/Desktop/Lab3/main.cpp
+iostream
+-
+chrono
+-
+sstream
+-
+Windows.h
+-
+Timer.h
+C:/Users/YoUr_IcOn/Desktop/Lab3/Timer.h
+common.h
+C:/Users/YoUr_IcOn/Desktop/Lab3/common.h
+
