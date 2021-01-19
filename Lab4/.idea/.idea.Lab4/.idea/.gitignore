@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Lab4.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\YoUr_IcOn\Desktop\Lab4\.idea\.idea.Lab4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

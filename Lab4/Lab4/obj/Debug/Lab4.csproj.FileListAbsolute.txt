@@ -1,0 +1,15 @@
+E:\Development\C#\BoMPaMPDP\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Development\C#\BoMPaMPDP\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Development\C#\BoMPaMPDP\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Development\C#\BoMPaMPDP\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Development\C#\BoMPaMPDP\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Development\C#\BoMPaMPDP\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\bin\Debug\Matrix.dll
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\bin\Debug\Matrix.pdb
+C:\Users\YoUr_IcOn\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
