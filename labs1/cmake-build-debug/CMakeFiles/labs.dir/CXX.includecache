@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/YoUr_IcOn/Desktop/labs1/src/LLTCalculator.cpp
+headers/LLTCalculator.h
+C:/Users/YoUr_IcOn/Desktop/labs1/src/headers/LLTCalculator.h
+cmath
+-
+
+C:/Users/YoUr_IcOn/Desktop/labs1/src/headers/LLTCalculator.h
+matrix.h
+C:/Users/YoUr_IcOn/Desktop/labs1/src/headers/matrix.h
+
+C:/Users/YoUr_IcOn/Desktop/labs1/src/headers/matrix.h
+iostream
+-
+
